@@ -1,0 +1,95 @@
+body{
+	font: 25px Arial, Tahoma;
+}
+#container {
+	width: 1000px;
+	height: 1000px;
+	margin: 5px auto;
+	background-color:#FFF;
+	border: 3px solid silver;
+	overflow: hidden;
+}
+#header {
+	width: 1000px;
+	height: 95px;
+	background-color: #003366;
+	text-align: center;
+	line-height: 95px;
+	
+}
+#sidebar{
+	width: 250px;
+	height: 905px;
+	float: left;
+	background: gray;
+}
+#sidebar_nav{
+	height: 35px;
+	width: 200px;
+	background: gray;
+	float: left;
+	margin: 20px;
+	text-align: center;
+}	
+#sidebar__nav{
+	height: 35px;
+	width: 200px;
+	background: gray;
+	float: left;
+	margin: 20px;
+	border-bottom: solid 1px yellow;
+	text-align: center;
+}
+#Africa{
+	height: 50px;
+	width: 150px;
+	background: yellow;
+	float: left;
+	margin: 40px;
+	text-align: center;
+}
+#site{
+	text-align: center;
+	margin: 20px;
+}
+
+.b3 radius{
+	border-radius: 5px;
+}
+
+
+#inhabitance{
+	height: 25px;
+	width: 200px;
+	background: gray;
+	margin: 20px;
+	text-align: center;
+}
+#content{
+	float: right; 
+	width: 745px;
+	background-color: transparent;
+}
+#div1{
+	width: 750px;
+	height: 250px;
+	color:  blue;
+	border-bottom:solid 1px #0099FF;
+
+}	
+
+#div2{
+	width: 750px;
+	height: 200px;
+	color:  blue;
+	border-bottom:solid 1px #0099FF; 
+}
+#div3{
+	width: 750px;
+	height: 250px;
+	color:  blue;
+	border-bottom:solid 1px #0099FF;
+}
+.clr{
+	clear: both;
+}
